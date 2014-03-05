@@ -1,0 +1,17 @@
+﻿label{
+     clear: both
+    ;display:block
+    ;float: left
+    ;width: 125px
+    ;height: 12px
+    ;vertical-align: bottom
+    ;padding: 10px
+}
+
+form input{
+     width: 200px
+    ;vertical-align: top
+    ;font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif
+    ;font-size: 12px
+    ;margin: 10px 50%
+}
